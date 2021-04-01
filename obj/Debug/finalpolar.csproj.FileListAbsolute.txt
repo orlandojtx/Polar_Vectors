@@ -1,0 +1,9 @@
+C:\Users\ORLANDO\source\repos\finalpolar\obj\Debug\finalpolar.csproj.CoreCompileInputs.cache
+C:\Users\ORLANDO\source\repos\finalpolar\bin\Debug\finalpolar.exe.config
+C:\Users\ORLANDO\source\repos\finalpolar\bin\Debug\finalpolar.exe
+C:\Users\ORLANDO\source\repos\finalpolar\bin\Debug\finalpolar.pdb
+C:\Users\ORLANDO\source\repos\finalpolar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ORLANDO\source\repos\finalpolar\obj\Debug\finalpolar.csproj.CopyComplete
+C:\Users\ORLANDO\source\repos\finalpolar\obj\Debug\finalpolar.exe
+C:\Users\ORLANDO\source\repos\finalpolar\obj\Debug\finalpolar.pdb
+C:\Users\ORLANDO\source\repos\finalpolar\obj\Debug\finalpolar.csprojAssemblyReference.cache
